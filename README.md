@@ -184,12 +184,14 @@ SELECT code, name FROM continent;
 (8 rows)
 
 ```
-
-```
-
-```
-
+## tabla city
 ![Tabla City](assets/city.png)
+
+## tabla country
 ![Tabla Country](assets/country.png)
+
+## tabla countrylanguage
 ![Tabla CountryLanguage](assets/countrylanguage.png)
+
+## tabla continent
 ![Resultado Final Continent](assets/continent.png)
