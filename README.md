@@ -189,7 +189,7 @@ SELECT code, name FROM continent;
 
 ```
 
-![Tabla City](img/city.png)
-![Tabla Country](img/country.png)
-![Tabla CountryLanguage](img/countrylanguage.png)
-![Resultado Final Continent](img/continent.png)
+![Tabla City](assets/city.png)
+![Tabla Country](assets/country.png)
+![Tabla CountryLanguage](assets/countrylanguage.png)
+![Resultado Final Continent](assets/continent.png)
